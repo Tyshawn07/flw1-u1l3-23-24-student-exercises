@@ -1,7 +1,7 @@
 // Welcome to the magical zoo! Your task is to create and manage a list of magical creatures. Let's have some fun!
 
 // 1. Declare a variable named 'creatureName' and assign it a magical creature's name as a string.
-
+creaturename="dragon"
 
 
 // 2. Declare a variable named 'creatureDescription' and describe its magical properties as a string.
